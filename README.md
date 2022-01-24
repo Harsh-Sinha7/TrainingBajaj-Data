@@ -1,3 +1,3 @@
 # TrainingBajaj-Data
 
-Stream API Example
+Folder wise Codes for Training - Bajaj Data Track 2
